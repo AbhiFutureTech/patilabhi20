@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ![Black Technology LinkedIn Banner](https://github.com/codebasics/deep-learning-keras-tf-tutorial/assets/157373320/a67d6864-b216-44c2-afa8-337f49fd3037)
 
