@@ -3,7 +3,7 @@
 ![Black Technology LinkedIn Banner](https://github.com/codebasics/deep-learning-keras-tf-tutorial/assets/157373320/a67d6864-b216-44c2-afa8-337f49fd3037)
 
 <h1 align="center">Hi 👋, I'm Abhijit Patil</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<h3 align="center">A passionate ROBOTICS and AI Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patilabhi20&label=Profile%20views&color=0e75b6&style=flat" alt="patilabhi20" /> </p>
 
