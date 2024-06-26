@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Abhijit Patil</h1>
 <h3 align="center">A passionate ROBOTICS and AI Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patilabhi20&label=Profile%20vistors&color=0e756&style=flat" alt="patilabhi20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patilabhi20&label=Profile%20vistors&color=0e75b6&style=flat" alt="patilabhi20" /> </p>
 
 - 💬 Ask me about **AI,LLM and Robotics**
 
